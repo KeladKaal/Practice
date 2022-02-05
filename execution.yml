@@ -14,6 +14,6 @@ execution:
       method: POST
       url: http://blazedemo.com/reserve.php
       body:
-        fromPort: Paris
+        fromPort: Moscow
         toPort: Buenos Aires
         
